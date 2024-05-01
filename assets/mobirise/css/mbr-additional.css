@@ -1090,7 +1090,7 @@ section.popup-builder .modal.mbr-popup button {
 }
 .cid-sCnmZWoQrk .row {
   align-items: center;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
 }
 .cid-sCnmZWoQrk .mbr-section-title {
   margin-bottom: 2rem;
